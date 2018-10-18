@@ -83,3 +83,8 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
+
+# Added during training session...
+collections:
+  connecttech2018:
+    output: true
